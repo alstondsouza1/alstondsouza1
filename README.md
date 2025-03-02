@@ -17,7 +17,7 @@
 - 🧪 <b>I'm currently working on ... </b></br> 
       my personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      frontend technologies, databases, and AWS.
+      frontend technologies/full stack technologies databases, and AWS.
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering New Grad/Intern Positions for 2025.
 - ⚡ <b>Fun facts:</b> </br>
