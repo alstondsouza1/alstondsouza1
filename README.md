@@ -13,7 +13,7 @@
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
 
 - 🎓 <b>I’m currently studying ... </b></br>
-      Software Development/Computer Science at Green River College - Auburn.
+      Software Development/Computer Science at Green River College
 - 🧪 <b>I'm currently working on ... </b></br> 
       my personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
